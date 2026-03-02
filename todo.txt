@@ -1,0 +1,14 @@
+1. Create equipment type master
+2. Create component type master
+
+3. Thoughts about QR Code scanning and Network issues:
+
+    a. In network starved areas, option may be there to prefetch all equipment data along with qr code 
+    references before starting out from testing
+    b. Option to save the observations localstorage and later submit it when network is available
+
+
+4. Thoughts about equipment master preparation:
+
+    a. Should site be allowed to enter equipment details ? If yes then how will site enter the relative
+    positions of the equipments

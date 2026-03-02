@@ -1,0 +1,47 @@
+{
+  "observationId": "OBS0782808202502",
+  "severity": "Critical",
+  "date": "28-08-2025",
+  "time": "18:30",
+  "createdBy": "90010006",
+  "remarks": "",
+  "observationType": "Measured",
+  "context": {
+    "section": "Switch Yard",
+    "systemPosition": "PTR-1 bay"
+  },
+  "equipment": {
+    "guid": "7bcfe7f6-07fc-4778-8521-98675195ed35", 
+    "contextId": "EQ078BYTR0100",
+    "type": "Transformer Bay Conductor",
+    "identifier": "PTR-1 Bay conductor",
+    "relativePosition": {
+        "relationType": "between",
+        "targetEquipments": ["EQ078HVBS0100", "EQ078ISTR0101"]
+    }
+  },
+  "component": {
+    "name": "Pad Connector",
+    "type": "Connector",
+    "parent": "",
+    "phase": "R",
+    "location": "33kV Bus side",
+    "identifier": "",
+    "status": ""
+  },
+  "testDetails": {
+    "testScope": "Condition monitoring",
+    "testType": "Hotspot",
+    "measurements": {
+      "testPoint": {
+        "temperature": 89,
+        "unit": "degrees"
+      },
+      "ambient": {
+        "temperature": 35,
+        "unit": "degrees"
+      }
+    },
+    "observations": ""
+  }
+}

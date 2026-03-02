@@ -1,0 +1,37 @@
+{
+  "observationId": "OBS0782808202510",
+  "severity": "Critical",
+  "date": "28-08-2025",
+  "time": "18:30",
+  "createdBy": "90010006",
+  "remarks": "Please reconnect LA immediately",
+  "observationType": "Visual",
+  "context": {
+    "section": "Switch Yard",
+    "systemPosition": "PTR-1 bay"
+  },
+  "equipment": {
+    "guid": "7bcfe7f6-07fc-4778-8521-98675195ed35", 
+    "contextId": "EQ078LATR0101",
+    "type": "33kV Lightning arrestor Set",
+    "identifier": "33kV LA PTR-1",
+    "relativePosition": {
+    }
+  },
+  "component": {
+    "name": "LA",
+    "type": "33kV Lightning arrestor",
+    "parent": "",
+    "phase": "R",
+    "location": "",
+    "identifier": "",
+    "status": "Missing"
+  },
+  "testDetails": {
+    "testScope": "Condition monitoring",
+    "testType": "Visual",
+    "measurements": {
+    },
+    "observations": "33kV LA Missing for PTR-1"
+  }
+}

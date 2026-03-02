@@ -1,0 +1,44 @@
+{
+  "observationId": "OBS0782808202502",
+  "severity": "Critical",
+  "date": "28-08-2025",
+  "time": "18:30",
+  "createdBy": "90010006",
+  "remarks": "",
+  "observationType": "Measured",
+  "context": {
+    "section": "Switch Yard",
+    "systemPosition": "PTR-1 bay"
+  },
+  "equipment": {
+    "guid": "7bcfe7f6-07fc-4778-8521-98675195ed35",
+    "contextId": "EQ078PTRF0100",
+    "type": "Power Transformer",
+    "identifier": "PTR 1"
+  },
+  "component": {
+    "name": "Stud Connector",
+    "type": "Connector",
+    "parent": "LV Bushing",
+    "phase": "R",
+    "location": "",
+    "identifier": "",
+    "status": ""
+  },
+  "relativePosition": {},
+  "testDetails": {
+    "testScope": "Condition monitoring", 
+    "testType": "Hotspot",
+    "measurements": {
+      "testPoint": {
+        "temperature": 89,
+        "unit": "degrees"
+      },
+      "ambient": {
+        "temperature": 35,
+        "unit": "degrees"
+      }
+    },
+    "observations": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "observationId": "OBS0782808202503",
+  "severity": "Critical",
+  "date": "28-08-2025",
+  "time": "18:33",
+  "createdBy": "90010007",
+  "remarks": "",
+  "observationType": "Visual",
+  "context": {
+    "section": "Switch Yard",
+    "systemPosition": "PTR-1 bay"
+  },
+  "equipment": {
+    "guid": "7bcfe7f6-07fc-4778-8521-98675195ed35",
+    "contextId": "EQ078PTRF01",
+    "type": "Power Transformer",
+    "identifier": "PTR 1"
+  },
+  "component": {
+    "name": "LV Bushing",
+    "type": "Bushing",
+    "parent": "",
+    "phase": "R",
+    "location": "",
+    "identifier": "",
+    "status": ""
+  },
+  "relativePosition": {},
+  "testDetails": {
+    "testType": "Visual",
+    "measurements": {},
+    "observations": "Oil leakage"
+  }
+}
